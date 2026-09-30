@@ -19,5 +19,15 @@
     "vue-server-renderer": "^2.6.14",
     "vue-template-compiler": "^2.6.14",
     "webpack": "^4.46.0"
+  },
+  "resolutions": {
+    "axios": "^0.33.0",
+    "braces": "^3.0.3",
+    "defu": "^6.1.5",
+    "http-proxy-middleware": "^2.0.10",
+    "micromatch": "^4.0.8",
+    "postcss": "^8.5.23",
+    "tar": "^7.5.21",
+    "tmp": "^0.2.6"
   }
 }
